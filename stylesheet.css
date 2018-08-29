@@ -1,0 +1,36 @@
+.nav__list {
+    list-style-type: none;
+    overflow: hidden;
+}
+
+.nav__items {
+    float: right;
+}
+
+.nav__link {
+    position: relative;
+    display:block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    margin-top: 25px;
+}
+
+.pageheader__logo {
+    position: relative;
+    float: left;
+}
+
+.pageheader {
+    margin-left: 125px;
+    margin-right: 100px;
+}
+
+.pageheader__news {
+    margin-top: 150px;
+}
+
+.pageheader__quote {
+    position: relative;
+    float: left;
+}
